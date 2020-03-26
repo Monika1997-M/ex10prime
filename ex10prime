@@ -1,3 +1,35 @@
+pseudocode:-
+BEGIN
+DISPLAY enter number
+READ n
+DISPLAY the prime numbers from 1 to 600 are
+CALL method prime
+CREATE  prime method
+COMPUTE boolean array to store prime values
+FOR READ PRIME VALUES UPRO GIVEN NUMBER
+INITIALIZE value is 2
+WHILE true
+FOR check the multile values upto 2
+IF value>n then break
+ELSE it is set to false
+FOR in this it checks the value increment to i
+IF prime[i]
+then no=i after set to nextvalue=false
+break
+IF check nextvalue not equal or not
+break
+FOR print upto n prime numbers
+DISPLAY prime numbers
+END
+
+
+
+
+
+
+program:-
+
+
 //create package
 package march24;
 //create class
